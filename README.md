@@ -4,6 +4,8 @@
 This campaign was created to inform clients of a new inventory management product.
 This product is now available at the Microsoft Business Central App Source.
 
+Developed with HTML, CSS and Media Queries, the images are located in mailChimp.
+
 ### This email has four forms of call to action.
 
 * Buttons to go to Microsoft AppSource
